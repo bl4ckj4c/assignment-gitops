@@ -1,1 +1,1 @@
-# Assignment GitOps
+# Demo GitOps
