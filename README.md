@@ -1,1 +1,1 @@
-# lab3-gitops
+# Assignment GitOps
